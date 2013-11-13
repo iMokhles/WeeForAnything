@@ -1,3 +1,11 @@
+//
+//  WeeForAnyThingController.m
+//  WeeForAnyThing
+//
+//  Created by iMokhles on 10/6/13.
+//  Copyright (c) 2013-2014 iMokhles LLC. All rights reserved.
+//
+
 #import <UIKit/UIKit.h>
 #import "BBWeeAppController-Protocol.h"
 #import <SpringBoard/SpringBoard.h>
