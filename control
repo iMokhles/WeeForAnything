@@ -1,0 +1,9 @@
+Package: com.iMokhles
+Name: WeeForAnyThing
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome widget for the notification center!
+Maintainer: iMokhles
+Author: iMokhles
+Section: Addons (NotificationCenter)
